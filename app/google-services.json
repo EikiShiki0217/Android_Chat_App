@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275942342668",
+    "project_id": "chat-a-18ce4",
+    "storage_bucket": "chat-a-18ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275942342668:android:83fa6d26dfb864dd012e29",
+        "android_client_info": {
+          "package_name": "com.shiki.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lx_M95fBAawV7ds2WAUYjLkfhcgQz44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

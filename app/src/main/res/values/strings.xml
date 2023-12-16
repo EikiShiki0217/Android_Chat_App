@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="welcome_back">Монгол Чат</string>
+    <string name="login_to_continue">Нэвтрэх</string>
+    <string name="email">Цахим хаяг</string>
+    <string name="password">Нууц үг</string>
+    <string name="sign_in">Нэвтрэх</string>
+    <string name="create_new_account">Шинэ хэрэглэгч</string>
+    <string name="add_image">Зураг нэмэх</string>
+    <string name="name">Нэр</string>
+    <string name="confirm_password">Нууц үг баталгаажуулах</string>
+    <string name="sign_up">Бүртгүүлэх</string>
+    <string name="select_user">Хэрэглэгчид</string>
+    <string name="type_a_message">Чат бичих</string>
+    <string name="online">Цахимд байна.</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="chats">Chats</string>
+</resources>
